@@ -8,7 +8,7 @@ Contains all the second question answers from lesson 5 homework: [gamedev-5780](
 
 [Enna Grigor](https://github.com/ennagrigor)
 
-<img src="images/world.png" width=400>
+<img src="Images/world.png" width=400>
 
 ## Two Player Game
 A game for two players who can move around the game world.
@@ -34,8 +34,8 @@ Both players can choose if they want to play in **first person mode** or
    
 ###### Both player play in first person mode:
 
-<img src="images/FirstPerson.png" width=400>
+<img src="Images/FirstPerson.png" width=400>
 
 ###### Both player play in third person mode:
  
- <img src="images/ThirdPerson.png" width=400>
+ <img src="Images/ThirdPerson.png" width=400>
