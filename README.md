@@ -12,6 +12,10 @@ Contains all the second question answers from lesson 5 homework: [gamedev-5780](
 
 ## Two Player Game
 A game for two players who can move around the game world.
+
+**Player 1** - Blue sphere.
+**Player 2** - Yellow sphere.
+
 Each player can move his character with different keys:
 
    * Player 1 - can move his character with the arrow keys:
