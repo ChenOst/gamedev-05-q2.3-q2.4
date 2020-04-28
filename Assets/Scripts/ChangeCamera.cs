@@ -9,6 +9,8 @@ public class ChangeCamera : MonoBehaviour
     private KeyCode switchCam;
     void Start()
     {
+        FpsCam.enabled = fpsCam;
+        TpsCam.enabled = !fpsCam;
         if (this.gameObject == GameObject.Find("Player1"))
         {
             switchCam = KeyCode.G;
@@ -26,5 +28,6 @@ public class ChangeCamera : MonoBehaviour
             FpsCam.enabled = fpsCam;
             TpsCam.enabled = !fpsCam;
         }
+    
     }
 }
