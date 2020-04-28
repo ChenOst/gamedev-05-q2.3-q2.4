@@ -22,7 +22,7 @@ Each player can move his character with different keys:
      * `Up` - Moves the player up.
      * `Left` - Moves the player left.
      * `Down` - Moves the player down.
-     * `Rigth` - Moves the player right.
+     * `Right` - Moves the player right.
 
    * Player 2 - can move his character with the WASD keys:
      * `W` - Moves the player up.
